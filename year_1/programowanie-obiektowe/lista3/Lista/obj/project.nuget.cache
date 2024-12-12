@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3g5OeHtqZvr6E9x1me2rMqynEffkwQ+Nz9blCM5YKXd5oOljFe7XKfgaNC6vGQApBjlxloBOMDuAyDVCje2NA==",
+  "success": true,
+  "projectFilePath": "/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/Lista.csproj",
+  "expectedPackageFiles": [
+    "/home/kaja/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

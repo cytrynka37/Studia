@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Lista/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Lista.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lista.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lista/1.0.0": {
+      "type": "project",
+      "path": "../Lista/Lista.csproj",
+      "msbuildProject": "../Lista/Lista.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Lista >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/home/kaja/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Testy/Testy.csproj",
+      "projectName": "Testy",
+      "projectPath": "/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Testy/Testy.csproj",
+      "packagesPath": "/home/kaja/.nuget/packages/",
+      "outputPath": "/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Testy/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/kaja/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/Lista.csproj": {
+              "projectPath": "/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/Lista.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[8.0.2, 8.0.2]"
+          }
+        ],
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.102/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

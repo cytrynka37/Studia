@@ -1,0 +1,12 @@
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/bin/Debug/net8.0/Lista.deps.json
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/bin/Debug/net8.0/Lista.dll
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/bin/Debug/net8.0/Lista.pdb
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/obj/Debug/net8.0/Lista.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/obj/Debug/net8.0/Lista.AssemblyInfoInputs.cache
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/obj/Debug/net8.0/Lista.AssemblyInfo.cs
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/obj/Debug/net8.0/Lista.csproj.CoreCompileInputs.cache
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/obj/Debug/net8.0/Lista.sourcelink.json
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/obj/Debug/net8.0/Lista.dll
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/obj/Debug/net8.0/refint/Lista.dll
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/obj/Debug/net8.0/Lista.pdb
+/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Lista/obj/Debug/net8.0/ref/Lista.dll

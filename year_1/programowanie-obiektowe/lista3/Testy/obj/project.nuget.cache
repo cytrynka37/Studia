@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "TUcc8uXjdx9wV3Wyt236+jPDv9KgU817R71noalbXHEb5zUVSmTdX+IPpyE5HH9yNEp5UhtzjXJVciczqksbrA==",
+  "success": true,
+  "projectFilePath": "/home/kaja/Documents/studia/programowanie-obiektowe/lista3/Testy/Testy.csproj",
+  "expectedPackageFiles": [
+    "/home/kaja/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

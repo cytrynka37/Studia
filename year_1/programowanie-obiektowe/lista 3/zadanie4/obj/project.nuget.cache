@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pwe/V/aDOJJpzDIA4xJp3bywd790OI2DIXIeiZaKkX/IT0cm5W1750ERaCgnN4AaK0By+stoXtOIC2UPuAaAsw==",
+  "success": true,
+  "projectFilePath": "/home/kaja/Documents/studia/programowanie-obiektowe/lista 3/zadanie4/zadanie4.csproj",
+  "expectedPackageFiles": [
+    "/home/kaja/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

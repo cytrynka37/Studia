@@ -1,0 +1,1 @@
+Podaj długości trzech boków trójkąta: Błędne dane!

@@ -1,0 +1,1 @@
+try (fun x -> x) + 42 with 3

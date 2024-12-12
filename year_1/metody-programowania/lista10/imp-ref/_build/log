@@ -1,0 +1,24 @@
+# dune exec imp example2.imp
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Shared cache location: /home/kaja/.cache/dune/db
+# Workspace root:
+# /home/kaja/Documents/studia/metody-programowania/lista10/imp-ref
+# Auto-detected concurrency: 12
+# Dune context:
+#  { name = "default"
+#  ; kind = "default"
+#  ; profile = Dev
+#  ; merlin = true
+#  ; fdo_target_exe = None
+#  ; build_dir = In_build_dir "default"
+#  ; installed_env =
+#      map
+#        { "INSIDE_DUNE" :
+#            "/home/kaja/Documents/studia/metody-programowania/lista10/imp-ref/_build/default"
+#        ; "OCAML_COLOR" : "always"
+#        ; "OPAMCOLOR" : "always"
+#        }
+#  ; instrument_with = []
+#  }
+$ /home/kaja/.opam/default/bin/ocamlc.opt -config > /tmp/dune_25597c_output

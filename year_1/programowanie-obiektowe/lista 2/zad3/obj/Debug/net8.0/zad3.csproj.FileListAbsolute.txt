@@ -1,0 +1,15 @@
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/bin/Debug/net8.0/zad3
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/bin/Debug/net8.0/zad3.deps.json
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/bin/Debug/net8.0/zad3.runtimeconfig.json
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/bin/Debug/net8.0/zad3.dll
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/bin/Debug/net8.0/zad3.pdb
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/zad3.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/zad3.AssemblyInfoInputs.cache
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/zad3.AssemblyInfo.cs
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/zad3.csproj.CoreCompileInputs.cache
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/zad3.sourcelink.json
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/zad3.dll
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/refint/zad3.dll
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/zad3.pdb
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/zad3.genruntimeconfig.cache
+/home/kaja/Documents/studia/programowanie-obiektowe/lista 2/zad3/obj/Debug/net8.0/ref/zad3.dll
