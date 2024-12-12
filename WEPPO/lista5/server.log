@@ -1,0 +1,8 @@
+08:55:36 192.168.0.1 GET /TheApplication/WebResource.axd 200
+08:55:37 10.0.0.1 GET /TheApplication/OtherResource.axd 404
+08:55:38 192.168.0.1 POST /TheApplication/API.axd 200
+08:55:39 10.0.0.1 GET /TheApplication/WebResource.axd 200
+08:55:40 203.0.113.1 GET /TheApplication/Main.axd 200
+08:55:41 192.168.0.1 GET /TheApplication/WebResource.axd 200
+08:55:42 203.0.113.1 POST /TheApplication/API.axd 500
+08:55:43 10.0.0.1 GET /TheApplication/Resource.axd 200
